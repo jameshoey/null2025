@@ -5,6 +5,9 @@ layout: home
 date: 2016-02-24T03:02:20+00:00
 ---
 
-As chosen by a vote in class, the topic for NULL 2025 is *ADD HERE. 
+The topic for NULL 2025 will be decided by a vote in an upcoming session. Details will be provided here when confirmed.
 
-Submissions are now open to be published as part of the NULL 2025 proceedings. Submissions this year should focus on (at least) one of the following:
+# How to Submit
+1. Use <a href="https://codepen.io/">CodePen.io</a> to create a small HTML / JS demo.
+2. Write a brief description (100-200 words) of your submission - including which principles of effective HCI are violated.
+3. Submit your codepen sharable link and brief description to jbh13@leicester.ac.uk
