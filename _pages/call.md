@@ -9,5 +9,5 @@ The topic for NULL 2025 will be decided by a vote in an upcoming session. Detail
 
 # How to Submit
 1. Use <a href="https://codepen.io/">CodePen.io</a> to create a small HTML / JS demo.
-2. Write a brief description (100-200 words) of your submission - including which principles of effective HCI are violated.
+2. Write a brief description (100-200 words) of your submission - including which principles of effective HCI are violated, and a couple of examples of ethical issues this introduces.
 3. Submit your codepen sharable link and brief description to jbh13@leicester.ac.uk
